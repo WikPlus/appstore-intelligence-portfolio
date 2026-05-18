@@ -1,65 +1,52 @@
-# App Intelligence — Product Portfolio Case Study
+# App Intelligence
 
-A portfolio showcase of **App Intelligence**, a market intelligence platform for app founders, product teams, and growth operators.
+App Intelligence is a market and product analysis app for iOS and Android categories.
 
-This repository is intentionally presentation-only: it contains product context and UI screenshots, with no application source code.
+It helps app founders and product teams quickly understand:
+- which categories are growing,
+- where competition is high or beatable,
+- how apps in a category monetize,
+- which apps are currently trending.
 
-## Product Summary
+## Main Features
 
-**App Intelligence** helps teams discover where app demand is rising, where competition is beatable, and which category clusters offer the highest probability of success.
+## 1) Trend Command Center
+- Market Explorer with category selection by store (All Stores, iOS, Android)
+- Opportunity score per category
+- 30-day demand change
+- Top-3 dominance indicator
+- Average rating indicator
+- Score profile chart (demand, competition, monetization, stability, gap)
+- Monetization mix chart (IAP, Ads, Paid)
+- Gap pressure signal from negative reviews
 
-The product turns raw store signals into strategic decisions:
-- Which market to enter next
-- Which category to monitor vs. avoid
-- Where monetization models are strongest
-- Which trending apps reveal defensible product opportunities
+![Trend Command Center](assets/trend-command-center.png)
 
-## What The Product Solves
+## 2) Category Ranking Pages
+- Top apps list per category
+- Rank position, app icon, app name, and publisher
+- Rating visibility
+- Estimated downloads and estimated revenue per app (when available)
 
-Most app teams face the same challenge: there is too much fragmented market data and too little decision clarity.
+![Finance Category](assets/finance-category.png)
 
-App Intelligence consolidates those signals into one decision layer:
-- Category momentum and competition pressure
-- Ranking quality and revenue/download proxies
-- Trend-aware app examples per market cluster
-- Action-oriented market exploration (build now, watch, avoid)
+![Health & Fitness Category](assets/health-fitness-category.png)
 
-## Core Experience
+## 3) Trending Example Apps
+- Category-specific trending app examples
+- Per-app trend score/momentum context
+- Signal tags (reach, rating quality, monetization hints, update freshness)
 
-### 1) Trend Command Center
+![Trending Example Apps](assets/trending-example-apps.png)
 
-A strategic dashboard for opportunity scoring, demand changes, competition intensity, and monetization patterns.
+## What This App Is Used For
 
-![Trend Command Center](assets/trend-command-center.jpeg)
-
-### 2) Category Ranking Intelligence (Finance)
-
-Category-level ranking view with app positions, rating quality, and commercial proxy metrics.
-
-![Finance Category Ranking](assets/finance-category.jpeg)
-
-### 3) Category Ranking Intelligence (Health & Fitness)
-
-Vertical-specific ranking landscape for fast benchmarking and niche validation.
-
-![Health & Fitness Category Ranking](assets/health-fitness-category.jpeg)
-
-### 4) Trending Example Apps
-
-Concrete trending app examples tied to selected market clusters, including signal tags and momentum context.
-
-![Trending Example Apps](assets/trending-example-apps.jpeg)
-
-## Portfolio Positioning
-
-This case study demonstrates product thinking across:
-- Market intelligence UX
-- Decision-support dashboard design
-- Data storytelling for product strategy
-- B2B SaaS framing for app ecosystem analytics
+- Validate app ideas before building
+- Find promising categories faster
+- Monitor competitor landscape continuously
+- Prioritize product direction with data-backed signals
 
 ## Notes
 
-- This repository is a **portfolio artifact**.
-- It is designed for hiring conversations, product walkthroughs, and case-study review.
-- No proprietary source code is included here.
+- This repository only contains screenshots and product description.
+- No source code is included.
